@@ -36,7 +36,7 @@ I'm a 3rd-year Computer Science student majoring in AI and Data Science. I enjoy
 ### 📊 Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OriGoldfrydCS&show_icons=true&theme=gruvbox" alt="OriGoldfrydCS's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OriGoldfrydCS&show_icons=true&theme=gruvbox" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OriGoldfrydCS&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="OriGoldfrydCS's Top Languages" />
 </div>
 
