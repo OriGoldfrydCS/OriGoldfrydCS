@@ -1,5 +1,5 @@
 <h1 align="left">Ori Goldfryd</h1>
-**A 3nd-year Computer Science majoring in AI and Data Science 
+**'A 3nd-year Computer Science majoring in AI and Data Science'** 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OriGoldfrydCS&label=Profile%20views&color=0e75b6&style=flat" alt="Ori Goldfryd" /> </p>
 
