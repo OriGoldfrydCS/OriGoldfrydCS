@@ -1,7 +1,7 @@
 # Ori Goldfryd
 **`Developer/Coder/Programmer`**
 
-I'm a 3rd-year Computer Science student majoring in AI and Data Science. I enjoy working on projects, learning new technologies, and contributing to collaborative efforts. My interests lie in solving problems with machine learning and data-driven approaches, and I'm always looking to expand my skills through hands-on experience.
+I am a Computer Science graduate majoring in AI and Data Science. I enjoy working on projects, learning new technologies, and contributing to collaborative efforts. My interests lie in solving problems with machine learning and data-driven approaches, and I'm always looking to expand my skills through hands-on experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OriGoldfrydCS&label=Profile%20views&color=0e75b6&style=flat" alt="Ori Goldfryd" /> </p>
 
