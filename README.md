@@ -35,10 +35,8 @@ I am a Computer Science graduate majoring in AI and Data Science. I enjoy workin
 
 ### 📊 Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OriGoldfrydCS&show_icons=true&theme=gruvbox" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OriGoldfrydCS&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="OriGoldfrydCS's Top Languages" />
-</div>
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
 
 
 
